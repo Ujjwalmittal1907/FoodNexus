@@ -4,7 +4,9 @@
 
 FoodNexus is an innovative food delivery application that integrates AI and Blockchain technology to enhance the user experience. This app utilizes AI agents dedicated to specific tasks, creating a seamless and efficient system for food ordering and delivery.
 
-![Alt text](./images/gallery (1).jpg)
+![Alt text](https://github.com/Ujjwalmittal1907/FoodNexus/blob/7625a74ff054199263b0074948fa7b1d3e6fd620/images/gallery%20(1).jpg)
+![Alt text](https://github.com/Ujjwalmittal1907/FoodNexus/blob/7a0b791f2ced8372c68e68a061f28100c43420f4/images/gallery%20(2).jpg)
+![Alt text](https://github.com/Ujjwalmittal1907/FoodNexus/blob/7a0b791f2ced8372c68e68a061f28100c43420f4/images/gallery%20(3).jpg)
 
 
 ## How Does the App Work?
